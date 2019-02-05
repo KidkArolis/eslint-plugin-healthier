@@ -17,15 +17,7 @@
     "eslint-plugin-standard": "^4.0.0"
   },
   "devDependencies": {
-    "babel-eslint": "^10.0.1",
-    "merge": "^1.2.0",
-    "mkdirp": "^0.5.1",
-    "np": "^4.0.2",
-    "prettier": "^1.16.3",
-    "rimraf": "^2.5.4",
-    "run-series": "^1.1.1",
-    "tape": "^4.6.3",
-    "xtend": "^4.0.0"
+    "np": "^4.0.2"
   },
   "engines": {
     "node": ">=6"
