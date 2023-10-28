@@ -7,7 +7,7 @@ const node = require('eslint-plugin-node')
 
 const merged = {
   rules: {},
-  rulesConfig: {}
+  rulesConfig: {},
 }
 
 merge(standard)
