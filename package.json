@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-healthier",
-  "version": "2.1.0",
+  "version": "2.2.0",
   "description": "An opinionated code linter – a friendly companion to prettier",
   "author": {
     "name": "Karolis Narkevicius",
