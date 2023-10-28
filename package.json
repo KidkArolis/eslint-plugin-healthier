@@ -10,16 +10,15 @@
     "url": "https://github.com/KidkArolis/eslint-plugin-healthier/issues"
   },
   "dependencies": {
-    "eslint-plugin-import": "^2.18.2",
-    "eslint-plugin-node": "^10.0.0",
-    "eslint-plugin-promise": "^4.2.1",
-    "eslint-plugin-react": "^7.14.3",
-    "eslint-plugin-react-hooks": "^2.0.1",
-    "eslint-plugin-standard": "^4.0.1"
+    "eslint-plugin-import": "^2.29.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.33.2",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-standard": "^4.1.0"
   },
   "devDependencies": {
-    "np": "^5.0.3",
-    "prettier": "^1.18.2"
+    "prettier": "^3.0.3"
   },
   "engines": {
     "node": ">=6"
